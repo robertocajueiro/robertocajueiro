@@ -1,5 +1,5 @@
 ### Olá 👋 Eu sou Roberto Cajueiro
-💻 Hoje trabalho como Administrador de redes e servidores Linux.
+💻 Hoje trabalho como Administrador de redes, analista de sistemas e servidores Linux.
 
 👨‍🎓 Estudo Programação Java + Spring boot, Assuntos voltado a cloud aws ☁️ e inglês. 
 
