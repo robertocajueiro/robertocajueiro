@@ -1,10 +1,7 @@
-### Olá 👋 Eu sou Roberto Cajueiro
-💻 Hoje trabalho como Administrador de redes, analista de sistemas e servidores Linux.
+### Olá Devs, Eu sou Roberto Cajueiro
+💻 Hoje trabalho como Administrador de redes, analista de sistemas.
 
-👨‍🎓 Estudo Programação Java + Spring boot, Assuntos voltado a cloud aws ☁️ e inglês. 
-
-
-  
+ ### Tecnologias que trabalho
 <div style="display: inline_block"><br>
   <img align="center" alt="beto-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="beto-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
